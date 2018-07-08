@@ -1,0 +1,6 @@
+framework module Pods_Glance {
+  umbrella header "Pods-Glance-umbrella.h"
+
+  export *
+  module * { export * }
+}
